@@ -1,3 +1,5 @@
 /backend/api/obj
 /backend/api/bin
+/backend/.vs
 /.vs
+/.vscode
